@@ -14,3 +14,11 @@ Completed ETL: Extract-Transform-Load the dataset and find for me some informati
 This is form of data mining. What all information can be achieved by mining this data, would be brainstormed by the interns. 
 
 Find key metrics and factors and show the meaningful relationships between attributes. Do your own research and come up with your findings.
+
+Data Model
+![image](https://user-images.githubusercontent.com/62187736/137854600-3988d95c-0771-4a2a-ba5c-f4d5630a47d1.png)
+
+Main Dashboard 
+  
+![image](https://user-images.githubusercontent.com/62187736/137854637-933d77d5-0c1d-472d-a800-ee799886f12c.png)
+
